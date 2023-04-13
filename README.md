@@ -5,22 +5,27 @@ These images are mainly obtained from Google Earth, and the rest are from two re
 
 
 For the collected ship images, we utilize the oriented object detection method Oriented R-CNN to obtain rotated bounding boxes and then obtain a total of 347 slices of ship targets, with a slice size between 300×30 and 1500×300.
-• Guided-missile destroyer
-  • Arleigh Burke class destroyer
-  • Zumwalt-class destroyer
-• Helicopter Destroyer
-  • Izumo-class helicopter destroyer
-  • Hyūga-class helicopter destroyer
-• Littoral Combat Ship
-  • Independence-class littoral combat ship
-  • Freedom-class littoral combat ship
-• Aircraft Carrier
-  • Nimitz-class aircraft carrier
-  • Gerald R. Ford-class aircraft carrier
-  • Kuznetsov-class aircraft carrier
-•
 
-•
+
+Types of ship are as follows:
+
+• Guided-missile destroyer (Arleigh Burke class destroyer & Zumwalt-class destroyer)
+  
+• Helicopter Destroyer (Izumo-class helicopter destroyer & Hyūga-class helicopter destroyer)
+
+• Littoral Combat Ship (Independence-class littoral combat ship & Freedom-class littoral combat ship)
+
+• Aircraft Carrier (Nimitz-class aircraft carrier & Gerald R. Ford-class aircraft carrier & Kuznetsov-class aircraft carrier)
+
+• Amphibious Assault Ship (Wasp-class amphibious assault ship & America-class amphibious assault ship)
+
+• Dock landing ship (Whidbey Island-class dock landing ship)
+
+• Amphibious transport dock (San Antonio-class amphibious transport dock)
+
+• Cruiser (Ticonderoga-class cruiser)
+
+
 
 
 
